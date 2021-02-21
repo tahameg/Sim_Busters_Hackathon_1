@@ -1,1 +1,1 @@
-### Explaination and building instructions can be found in the folders.
+### Explainations and building instructions can be found in the folders.
