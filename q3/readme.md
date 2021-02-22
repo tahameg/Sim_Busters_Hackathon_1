@@ -31,3 +31,5 @@ g++ ../main.cpp  -o app
 ```shell
 ./app
 ```
+### Input Sample:
+```3 12345678912345 a 334.23 14049.30493```
